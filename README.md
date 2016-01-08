@@ -5,7 +5,7 @@
 
 #### Installation & Usage
 #####On UNIX
-1. Install python and execute the script
+Install python and execute the script
 This script is devopped using Python 3. Therefore, you will need to install python 3 package.
 
 Run this command to install python on Unix
@@ -16,7 +16,7 @@ After installing python3, verify if the python3 is installed correctly. Just run
 
     python3 --version
 
-2. Clone this repository onto the server or device you are planning to run this script. Once dowloaded, your may run the script by running the below command. Please correct the paths as per your actual paths.
+Clone this repository onto the server or device you are planning to run this script. Once dowloaded, your may run the script by running the below command. Please correct the paths as per your actual paths.
 
     python pyCompry.py -i /user/somesourcefolder -o /mnt/remotemount/somebackupfolder
 
