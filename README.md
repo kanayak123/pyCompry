@@ -30,3 +30,5 @@ Open CMD and run this command
 You can use this script to automate backup of any folder. This script, once executed with input and output arguments, will check the output folder for any previously created zip file and then create a new zip file containing the contents of the input folder. This is useful in automating backup of any folder as well as useful in transferring large files over a slow network since it compresses the source. Example:- You have scheduled a daily backup of your Database and destination to store backup files is a local folder within the same server. Now you want to automate the transfer of these backup files to a DR server. In such cases, you can use this script to automate the backup of these files to a DR server/site.
 
 You will need to schedule this script in the task scheduler if you want completely automate this script. Use crontab in Unix or Task Scheduler on Windows to schedule the script.
+
+For detailed help, please refer to http://blogger.technokan.com/2016/01/automate-backup-with-python-script.html
