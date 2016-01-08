@@ -20,7 +20,7 @@ Clone this repository onto the server or device you are planning to run this scr
 
     python pyCompry.py -i /user/somesourcefolder -o /mnt/remotemount/somebackupfolder
 
-####On Windows
+#####On Windows
 Download and install the Python 3. You may download from https://www.python.org/downloads/
 
 Open CMD and run this command
