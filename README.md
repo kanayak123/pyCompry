@@ -4,7 +4,7 @@
 ####This is the README file for pyCompry, a script to automate compression and transfer of any folder.
 
 #### Installation & Usage
-#####On UNIX
+#####On Linux
 Install python and execute the script
 This script is devopped using Python 3. Therefore, you will need to install python 3 package.
 
